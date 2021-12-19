@@ -1,5 +1,7 @@
 # 리팩터링(2판) 스터디
 
+리팩터링2 한국어판 깃허브 https://github.com/WegraLee/Refactoring
+
 ## 시간
 
 일자 : **매주 수요일 9시**
